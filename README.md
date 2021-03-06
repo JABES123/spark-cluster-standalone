@@ -129,20 +129,3 @@ docker-compose up
 | [JupyterLab](https://hub.docker.com/r/andreper/jupyterlab)     | ![docker-size-jupyterlab](https://img.shields.io/docker/image-size/andreper/jupyterlab/latest) | ![docker-pull](https://img.shields.io/docker/pulls/andreper/jupyterlab)   |
 | [Spark Master](https://hub.docker.com/r/andreper/spark-master) | ![docker-size-master](https://img.shields.io/docker/image-size/andreper/spark-master/latest)   | ![docker-pull](https://img.shields.io/docker/pulls/andreper/spark-master) |
 | [Spark Worker](https://hub.docker.com/r/andreper/spark-worker) | ![docker-size-worker](https://img.shields.io/docker/image-size/andreper/spark-worker/latest)   | ![docker-pull](https://img.shields.io/docker/pulls/andreper/spark-worker) |
-
-## <a name="contributing"></a>Contributing
-
-We'd love some help. To contribute, please read [this file](CONTRIBUTING.md).
-
-## <a name="contributors"></a>Contributors
-
-A list of amazing people that somehow contributed to the project can be found in [this file](CONTRIBUTORS.md). This 
-project is maintained by:
-
-> **André Perez** - [dekoperez](https://twitter.com/dekoperez) - andre.marcos.perez@gmail.com
-
-## <a name="support"></a>Support
-
-> Support us on GitHub by staring this project :star:
-
-> Support us on [Patreon](https://www.patreon.com/andreperez). :sparkling_heart:
